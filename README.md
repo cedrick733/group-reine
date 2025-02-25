@@ -1,6 +1,6 @@
 # group
-reine
-felix
-brighton
-sano
-cedrick
+-reine
+-felix
+-brighton
+-sano
+-cedrick
